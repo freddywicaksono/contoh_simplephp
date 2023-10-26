@@ -5,3 +5,6 @@ Contoh CRUD SimplePHP
 Rename .env.example to .env
 
 Rename .htaccess.example to .htaccess
+
+### Test
+http://localhost/contoh_simplephp/matakuliah
