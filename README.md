@@ -1,4 +1,4 @@
-# contoh_simplephp
+# Contoh SimplePHP
 Contoh CRUD SimplePHP
 
 ### File .env and .htaccess
