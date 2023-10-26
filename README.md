@@ -1,5 +1,4 @@
 # Contoh SimplePHP
-Contoh CRUD SimplePHP
 
 ### File .env and .htaccess
 Rename .env.example to .env
